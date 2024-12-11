@@ -1,0 +1,15 @@
+# Ignorar a pasta node_modules
+/node_modules/
+
+# Ignorar a pasta dist (geralmente onde os arquivos de build são armazenados)
+/dist/
+
+# Ignorar arquivos SQL e CSV gerados
+*.sql
+*.csv
+
+# Ignorar diretórios de entrada e saída
+/input/
+output/
+
+.env
